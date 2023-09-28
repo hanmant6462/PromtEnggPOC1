@@ -1,0 +1,6 @@
+{
+	"BTP_LLM_CLIENT_ID": "sb-484cbf53-f391-4bb8-9368-0929ec624fd1!b179682|azure-openai-service-i057149-xs!b70230",
+	"BTP_LLM_CLIENT_SECRET": "b3b0c822-8d77-46c9-b3fe-42688d5a9ff5$KDeWQLprWWkW_AUI6IJGds1x6yCovDKd7AR9BQB1ZAs=",
+	"BTP_LLM_AUTH_URL": "https://openai-devlearning.authentication.eu12.hana.ondemand.com",
+	"BTP_LLM_API_BASE": "https://azure-openai-serv-i057149.cfapps.eu12.hana.ondemand.com"
+}
